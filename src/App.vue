@@ -49,6 +49,8 @@ export default {
       this.state++;
     },
     getMovieList() {
+      const url =
+        "http://my-json-server.typicode.com/soheeyun831/movielens/movies";
       if (Number(this.formData.age) < 10) {
         this.formData.age = "0~9";
       } else if (Number(this.formData.age) > 59) {
@@ -59,9 +61,7 @@ export default {
       }
 
       axios
-        .get(
-          `http://localhost:3001/movies?age=${this.formData.age}&gender=${this.formData.gender}`
-        )
+        .get(`${url}?age=${this.formData.age}&gender=${this.formData.gender}`)
         .then(response => {
           this.moveList = response.data[0].list;
         })
