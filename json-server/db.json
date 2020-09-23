@@ -1,0 +1,97 @@
+{
+  "movies": [
+    {
+      "age": "0~9",
+      "gender": "M",
+      "list": [
+        "2001: A Space Odyssey (1968)",
+        "Apollo 13 (1995)",
+        "Contact (1997)"
+      ]
+    },
+    {
+      "age": "10~19",
+      "gender": "M",
+      "list": ["Scream (1996)", "Star Wars (1977)", "Contact (1997)"]
+    },
+    {
+      "age": "10~19",
+      "gender": "W",
+      "list": ["Scream (1996)", "Liar Liar (1997)", "Contact (1997)"]
+    },
+    {
+      "age": "20~29",
+      "gender": "M",
+      "list": ["Star Wars (1977)", "Return of the Jedi (1983)", "Scream (1996)"]
+    },
+    {
+      "age": "20~29",
+      "gender": "W",
+      "list": ["Scream (1996)", "Liar Liar (1997)", "Star Wars (1977)"]
+    },
+    {
+      "age": "30~39",
+      "gender": "M",
+      "list": ["Star Wars (1977)", "Return of the Jedi (1983)", "Fargo (1996)"]
+    },
+    {
+      "age": "30~39",
+      "gender": "W",
+      "list": [
+        "Star Wars (1977)",
+        "English Patient, The (1996)",
+        "Fargo (1996)"
+      ]
+    },
+    {
+      "age": "40~49",
+      "gender": "M",
+      "list": [
+        "English Patient, The (1996)",
+        "Fargo (1996)",
+        "Star Wars (1977)"
+      ]
+    },
+    {
+      "age": "40~49",
+      "gender": "W",
+      "list": [
+        "English Patient, The (1996)",
+        "Contact (1997)",
+        "Godfather, The (1972)"
+      ]
+    },
+    {
+      "age": "50~59",
+      "gender": "M",
+      "list": [
+        "English Patient, The (1996)",
+        "Fargo (1996)",
+        "Air Force One (1997)"
+      ]
+    },
+    {
+      "age": "50~59",
+      "gender": "W",
+      "list": [
+        "English Patient, The (1996)",
+        "Full Monty, The (1997)",
+        "Star Wars (1977)"
+      ]
+    },
+    {
+      "age": "60~",
+      "gender": "M",
+      "list": [
+        "English Patient, The (1996)",
+        "Godfather, The (1972)",
+        "Fargo (1996)"
+      ]
+    },
+    {
+      "age": "60~",
+      "gender": "W",
+      "list": ["Birdcage, The (1996)", "Chasing Amy (1997)", "Titanic (1997)"]
+    }
+  ]
+}
